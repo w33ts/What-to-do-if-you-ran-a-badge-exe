@@ -20,6 +20,6 @@ After you complete the steps above, you *should* be able to have reasonable conf
 ## Who the hell are you and why should I trust you?
 You shouldn't, ultimately. I'm just a dude on the internet, so do your own research. *However*, I *am* a certified industry expert, so at least give some thought to the above.
 
-If you have any questions, DM me @ weet#6969 on Discord or join https://discord.cyberhub.party.
+If you have any questions, DM me @ w33t.io on Discord or join https://discord.gg/cyberinfo.
 
 Good luck and be careful out there.
